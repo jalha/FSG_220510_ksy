@@ -6,7 +6,9 @@ public class TestScript : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start(){
-        Debug.Log("Hello Unity World");
+        Debug.Log("Hello unity world");
+
+        
     }
 
    
